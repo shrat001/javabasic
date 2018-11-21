@@ -1,4 +1,4 @@
-package com.busyqa.coursework.wk2;
+package com.busyqa.coursework.wk2_answer;
 
 import java.util.Scanner;
 

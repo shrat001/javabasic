@@ -1,4 +1,4 @@
-package com.busyqa.coursework.wk1;
+package com.busyqa.coursework.wk1_tips;
 
 public class PrintNumberInWord {
     public static void main(String[] args) {
